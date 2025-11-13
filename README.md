@@ -20,5 +20,3 @@ Projetos iniciais de desenvolvimento web e aplicações simples.
 Apaixonado por tecnologia, games e aprender algo novo todos os dias.
 
 ---
-
-✨ _Obrigado por visitar meu perfil!_ ✨
