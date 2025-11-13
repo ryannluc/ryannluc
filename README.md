@@ -26,16 +26,6 @@ Projetos iniciais de desenvolvimento web e aplicações simples.
 Apaixonado por tecnologia, games e aprender algo novo todos os dias.
 
 ---
-
-# 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanlucasnunes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlucasnunes&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
-
-</div>
-
 ---
 
 <p align="center">
