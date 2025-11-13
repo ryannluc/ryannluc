@@ -1,16 +1,24 @@
-## Hi there 👋
+🔭 **Atualmente estou trabalhando em:**  
+Projetos acadêmicos e pessoais focados em desenvolvimento de software.
 
-<!--
-**ryannluc/ryannluc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **No momento estou aprendendo:**  
+Java, Python, Git/GitHub e fundamentos de banco de dados.
 
-Here are some ideas to get you started:
+👯 **Procuro colaborar em:**  
+Projetos iniciais de desenvolvimento web e aplicações simples.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 **Preciso de ajuda com:**  
+Boas práticas de programação e organização de projetos.
+
+💬 **Pergunte-me sobre:**  
+ADS, lógica de programação e meus projetos de estudo.
+
+📫 **Como me encontrar:**  
+seuemail@exemplo.com  
+(ou adicione outras redes)
+
+😄 **Pronomes:**  
+Ele/Dele (ou os seus)
+
+⚡ **Curiosidade:**  
+Apaixonado por tecnologia, games e aprender algo novo todos os dias.
